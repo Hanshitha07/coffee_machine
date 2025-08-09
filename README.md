@@ -23,13 +23,5 @@ The program manages resources, processes payments in coins, and returns change w
 
 ## Example Run
 
-Copy
-Edit
-What would you like? (espresso/latte/cappuccino): latte
-Please insert coins.
-how many quarters?: 10
-how many dimes?: 0
-how many nickles?: 0
-how many pennies?: 0
-Here is $0.0 in change.
-Here is your latte ☕️. Enjoy!
+<img width="618" height="344" alt="Screenshot 2025-08-09 194202" src="https://github.com/user-attachments/assets/e9b4c754-8ec7-47be-9019-0fb94baefd12" />
+
