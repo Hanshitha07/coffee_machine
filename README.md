@@ -22,6 +22,5 @@ The program manages resources, processes payments in coins, and returns change w
 - Type off to turn off the machine.
 
 ## Example Run
-
-<img width="618" height="344" alt="Screenshot 2025-08-09 194202" src="https://github.com/user-attachments/assets/e9b4c754-8ec7-47be-9019-0fb94baefd12" />
+<img width="617" height="414" alt="Screenshot 2025-08-09 194307" src="https://github.com/user-attachments/assets/132c1b43-cc22-42fd-9553-732488218477" />
 
